@@ -12,7 +12,7 @@ enum UsersRequests {
     SaveData,
     DeleteData,
 }
-console.log(UserRequests.ReadData);
+console.log(UsersRequests.ReadData);
 
 // string
 enum RequestTypes {
