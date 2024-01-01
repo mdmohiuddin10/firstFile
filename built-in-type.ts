@@ -7,3 +7,9 @@ let userNames: string;
 userNames = 'mohiuddin';
 let isActivated: boolean;
 isActivated = false;
+
+// void
+function display(): void{
+    console.log('hi I am display');
+}
+display()
